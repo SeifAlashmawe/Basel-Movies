@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "141784473798",
+    "firebase_url": "https://baselapp-d99c3.firebaseio.com",
+    "project_id": "baselapp-d99c3",
+    "storage_bucket": "baselapp-d99c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141784473798:android:4901d74e04ea5b9647b7c7",
+        "android_client_info": {
+          "package_name": "hope.afterlifeprojects.seif.french.baselapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "141784473798-hp0fhu1tjph80g5uisbr5eng58hb6bl0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "hope.afterlifeprojects.seif.french.baselapp",
+            "certificate_hash": "3617bc5bae1a75dde464178f6fb07d13cddb7b0e"
+          }
+        },
+        {
+          "client_id": "141784473798-75pa2g0haoegas8l2kjb0p5hur35sgb8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0dNEkWa0ZQRtVcMblZ65t1P9dY9s_phc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "141784473798-75pa2g0haoegas8l2kjb0p5hur35sgb8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
